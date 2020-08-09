@@ -12,6 +12,7 @@
   | Command | Arguments | Description |
   | :---------------: | :--------------- | :--------------- |
   | !dbd-rnjesus |  | Randomly selects a killer from dead by daylight to play as |
+  | !dbd-kill-perks | | selects 4 random killer perks from the available pool |
   | !pick-random | ...choices | selects 1 from an unbounded number of following args |
 
   ### What else
@@ -23,7 +24,7 @@
 ### How to use them?
 <details>
   <summary>
-    tl;dr: <TODO><code>`control + c && control + v`</code>
+    tl;dr: copy the code from the compiled readme, and paste in chat!
   </summary>
   <br />
 
