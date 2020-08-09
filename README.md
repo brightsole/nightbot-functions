@@ -27,11 +27,15 @@
   </summary>
   <br />
 
+  [go here to see minified functions for copying](src/compiled.md)
+
   Alternatively, you may find it beneficial to write new functions! that's super easy too!
 
   Just clone this repo! Then `npm i`. Then create a new function inside `src`!
 
   `###` is replaced with your minified code
+
+  then run `npm run minify`
 
 </details>
 <br/>

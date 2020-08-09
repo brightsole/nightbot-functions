@@ -18,7 +18,7 @@ const appendToNightbotFile = async (fileName, writer) => {
     .replace('// ', '') // uncomment it
     .replace('###', minified); // replace ### with our minified js
 
-  writer.write(`### ${commandNameMatch[1]}\n${output}\n\n`);
+  writer.write(`### ${commandNameMatch[1]}\n\`\`\`\n${output}\n\`\`\`\n\n`);
 };
 
 const compile = async () => {
