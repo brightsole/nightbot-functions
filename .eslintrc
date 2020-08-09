@@ -1,0 +1,6 @@
+{
+  "extends": ["@brightsole/lint-node"],
+  "rules": {
+    "no-unused-expressions": "off"
+  }
+}
